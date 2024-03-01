@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Client",
-    "slug": "Client",
+    "slug": "kickz",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0865c4ce-b351-405a-bc80-9815bc10ca3d"
+      }
+    },
+    "owner": "kickz"
   }
 }
